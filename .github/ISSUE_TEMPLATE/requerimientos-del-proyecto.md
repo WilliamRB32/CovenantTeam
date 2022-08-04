@@ -7,14 +7,19 @@ assignees: ''
 
 ---
 
-**#Titulo**
+# Titulo ✏️: 
 
-##ReqID: 
 
-##Descripción:
+## ReqID❕: 
 
-##Restricciones:
 
-##Actores:
+## Descripción 🈹: 
 
-##CU Asociados:
+
+## Restricciones 🛑:
+
+
+## Actores 👦🏻🧒🏻:
+
+
+## CU Asociados 🤞:
