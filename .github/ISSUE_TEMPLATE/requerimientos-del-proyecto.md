@@ -1,15 +1,20 @@
 ---
 name: Requerimientos del proyecto
-about: requerimientos funcionales y no funcionales
-title: REQ
+about: Describe this issue template's purpose here.
+title: Requerimientos
 labels: ''
 assignees: ''
 
 ---
 
-Título
-ReqID
-Descripción
-Restricciones
-Actores
-CU Asociados
+**#Titulo**
+
+##ReqID: 
+
+##Descripción:
+
+##Restricciones:
+
+##Actores:
+
+##CU Asociados:
